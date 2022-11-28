@@ -1,0 +1,5 @@
+C:\Users\tehla\Desktop\examples\obj\Debug\net6.0\examples.csproj.AssemblyReference.cache
+C:\Users\tehla\Desktop\examples\obj\Debug\net6.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tehla\Desktop\examples\obj\Debug\net6.0\examples.AssemblyInfoInputs.cache
+C:\Users\tehla\Desktop\examples\obj\Debug\net6.0\examples.AssemblyInfo.cs
+C:\Users\tehla\Desktop\examples\obj\Debug\net6.0\examples.csproj.CoreCompileInputs.cache
